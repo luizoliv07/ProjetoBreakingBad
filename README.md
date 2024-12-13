@@ -22,9 +22,9 @@
 
 # Tecnologias Utilizadas 🛠️
 
-- HTML5: Para estruturação da página.
+- HTML
 
-- CSS3: Para estilização e design visual.
+- CSS3
 
   ***
 
